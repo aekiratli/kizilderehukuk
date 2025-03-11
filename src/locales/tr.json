@@ -1,0 +1,115 @@
+{
+  "header": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "operations": "Faaliyet Alanlarımız",
+    "team": "Ekibimiz",
+    "contact": "İletişim",
+    "kizildere": "KIZILDERE Hukuk"
+
+  },
+  "landing": {
+    "notFound": "404 | Sayfa Bulunamadı",
+    "header": "KIZILDERE HUKUK ve ARABULUCULUK BÜROSU",
+    "header2": "Uzman Hukuki Danışmanlık ve Arabuluculuk Hizmetleri",
+    "button": "BİZE ULAŞIN",
+    "ataturk": "\"Adalet gücü bağımsız olmayan bir milletin, devlet halinde varlığı kabul olunamaz.\"",
+    "description": "İş hukuku, ticaret hukuku, kamu ihale sözleşmeleri, arabuluculuk ve daha birçok alanda kapsamlı hukuki destek sunuyoruz. Güvenilir çözümler için bizimle iletişime geçin."
+  },
+  "about": {
+    "header": "Hakkımızda",
+    "subHeader": "Arabuluculuk Hizmetlerimiz",
+    "header2": "Neden KIZILDERE Hukuk ve Arabuluculuk Bürosu?",
+    "itemsHeaders": "Uzman Kadro,Geniş Hizmet Ağı,Çözüm Odaklı Yaklaşım,Güvenilirlik ve Şeffaflık",
+    "itemsDescription": "Her biri alanında uzman avukatlardan oluşan ekibimiz, hukukun her dalında kapsamlı bilgi ve deneyime sahiptir.\nTürkiye genelindeki çözüm ortağı hukuk büroları ile iş birliği yaparak müvekkillerimize yerel düzeyde de etkin hizmet sunmaktayız.\nHukuki süreçlerde müvekkillerimizin haklarını en iyi şekilde savunurken, zaman ve maliyet avantajı sağlayan yöntemler geliştirmekteyiz.\nMüvekkillerimizle açık iletişim kurarak, süreç boyunca ihtiyaç duydukları her türlü bilgi ve desteği sağlıyoruz.",
+    "button": "BİZE ULAŞIN",
+    "button2": "BİZE DANIŞIN",
+    "description1": "KIZILDERE Hukuk ve Arabuluculuk Bürosu, kendi alanında uzmanlığı bulunan avukatlar tarafından faaliyet gösteren ve ülkemizde birçok ilde bulunan çözüm ortağı hukuk büroları ile çalışarak müvekkillerinin menfaatleri doğrultusunda hizmet veren bir büro olup aynı zamanda uyuşmazlıkların arabuluculuk yolu ile neticelendirilebilmesi için gerek ihtiyari ve gerekse dava şartı arabuluculuk kapsamında arabuluculuk hizmeti vermektedir.",
+    "description2": "Hukuk büromuz, ihtiyari arabuluculuk ve dava şartı arabuluculuk süreçlerinde tarafların haklarını gözeterek, müzakereleri olumlu sonuçlandırmayı hedeflemektedir. Arabuluculuk süreçleri, özellikle işçi-işveren uyuşmazlıkları, ticari anlaşmazlıklar ve aile hukuku kapsamındaki problemler gibi çeşitli konularda barışçıl çözümler üretmek için tercih edilmektedir. Deneyimli arabulucularımız, taraflar arasında etkili bir iletişim ortamı sağlayarak uzun sürebilecek hukuki süreçlerin önüne geçmektedir."
+  },
+  "operations": {
+    "header": "Faaliyet Alanlarımız",
+    "button": "BİZE ULAŞIN",
+    "op1": {
+      "header": "Kamu İhale Sözleşmeleri",
+      "description": "Kamu İhale Kanunu kapsamındaki projelerde, ihale sürecinden işin tamamlanmasına kadar ortaya çıkan hukuki sorunlar için gerekli destek ve çalışmalar yapılmaktadır:",
+      "items": "•İhale hazırlık ve başvuru süreçlerinde hukuki danışmanlık,\n•Kamu idareleriyle yaşanan hukuki ihtilafların çözümlenmesi,\n•İşin yapılması ve teslimi aşamalarında ortaya çıkan uyuşmazlıkların giderilmesi.",
+      "fullDescription": ""
+    },
+    "op2": {
+      "header": "İş Hukuku",
+      "description": "İşçi ve işverenler arasında doğabilecek hukuki ihtilafların çözümü için hukuki destek ve çalışmalar yapılmaktadır.",
+      "items": "•İşçi müvekkillerin hak ve alacaklarının takibi,\n•İşveren müvekkillerin hukuki menfaatlerinin korunması,\n•Arabuluculuk ve dava süreçlerinin yönetimi,\n•Alacakların tahsiline yönelik hukuki işlemlerin yürütülmesi.",
+      "fullDescription": ""
+    },
+    "op3": {
+      "header": "Ticaret ve Şirketler Hukuku",
+      "description": "Şirketlerin ticari faaliyetlerinde karşılaşabileceği hukuki sorunların önlenmesi ve çözülmesi amacıyla hukuki destek ve çalışmalar yürütmekteyiz. Bu kapsamda:",
+      "items": "•Hizmet alınan ya da verilen gerçek veya tüzel kişilerle yaşanan hukuki anlaşmazlıklar,\n•Kamu idareleri ile ilişkilerin düzenlenmesi,\n•İşçi-işveren ilişkilerinin kurulması, yönetilmesi ve ortaya çıkan uyuşmazlıkların çözümü, konularında gerekli hukuki süreçler takip edilmektedir.",
+      "fullDescription": ""
+    },
+    "op4": {
+      "header": "Enerji ve Maden Hukuku",
+      "description": "Enerji sektöründe faaliyet gösteren firmaların kamu idareleri veya diğer paydaşlarla yaşadığı hukuki uyuşmazlıkların çözümü için gerekli destek ve çalışmalar yapılmaktadır:",
+      "items": "•Sözleşme hazırlanması ve incelenmesi,\n•Rödovans (maden kiralaması) süreçlerinin düzenlenmesi,\n•Ortaya çıkan ihtilafların çözümüne yönelik hukuki işlemlerin takibi.",
+      "fullDescription": ""
+    },
+    "op5": {
+      "header": "Kat Mülkiyeti Hukuku",
+      "description": "Kat mülkiyetinden kaynaklanan uyuşmazlıkların çözümüne yönelik gerekli hukuki destek sağlanmakta ve süreçler yönetilmektedir:",
+      "items": "•Site ve toplu yapı yönetimlerinin kat mülkiyetinden doğan sorunlarının çözümlenmesi,  \n•Kat maliklerinin Kat Mülkiyeti Mevzuatı çerçevesinde yaşadığı uyuşmazlıkların giderilmesi,\n•Ortak alan kullanımı ve aidat uyuşmazlıklarına ilişkin hukuki süreçlerin takibi.",
+      "fullDescription": ""
+    },
+    "op6": {
+      "header": "Kira Hukuku",
+      "description": "Kira ilişkilerinden kaynaklanan hukuki uyuşmazlıkların çözümü için gerekli destek ve çalışmalar yürütülmektedir:",
+      "items": "•Mülk sahiplerinin kiracılarla yaşadığı hukuki anlaşmazlıkların çözümlenmesi,\n•Kiracıların kiraya verenlerle olan ihtilaflarının giderilmesi,\n•Yargıtay kararları çerçevesinde müvekkillerimizin haklarının korunması için arabuluculuk ve/veya dava vekilliği ile uyuşmazlıkların çözümü.",
+      "fullDescription": ""
+    },
+    "op7": {
+      "header": "Taşınmaz Hukuku",
+      "description": "Taşınmazlara ilişkin uyuşmazlıkların çözümünde gerekli hukuki süreçlerin yürütülmesi sağlanmaktadır:",
+      "items": "•Miras davaları,\n•Paylı mülkiyetten doğan önalım hakkı uyuşmazlıkları,\n•Haksız el atma davaları,\n•Ortaklığın giderilmesi süreçleri.",
+      "fullDescription": ""
+    }
+  },
+  "team": {
+    "header": "Ekibimiz",
+    "lawyer1": {
+      "name": "Av. Arb. Adem Uğur KIZILDERE – Kurucu",
+      "header": "Hakkında",
+      "emailHeader": "E-posta: ",
+      "email": "auk@kizilderehukuk.com",
+      "description": "2000 yılında Marmara Üniversitesi Hukuk Fakültesinden mezun olan Av. Arb. Adem Uğur KIZILDERE, serbest avukat olarak meslek hayatına başlamıştır. Ticaret ve Şirketler Hukuku, Enerji ve Maden Hukuku, Sözleşme Hukuku, Kamu İhale Sözleşmeleri, Taşınmaz Hukuku, Kat Mülkiyeti Hukuku ve İş Hukuku alanlarında uzmanlaşmıştır.2020 yılından itibaren Arabuluculuk Daire Başkanlığının 11725 sicil numarası ile arabulucu olarak da hizmet vermektedir."
+    },
+    "lawyer2": {
+      "name": "Av. Arb. Atakan TÜRK",
+      "header": "Hakkında",
+      "emailHeader": "E-posta: ",
+      "email": "atakanturk@kizilderehukuk.com",
+      "description": "2015 yılında hukuk eğitimini tamamlayan Av. Arb. Atakan TÜRK, 2016'dan bu yana Ankara Barosu’na kayıtlı olarak KIZILDERE Hukuk Bürosunda avukatlık yapmaktadır. 2022 yılından itibaren Uzman Arabulucu unvanıyla da faaliyet göstermektedir. İş Hukuku, İdare Hukuku, Ticaret Hukuku, Kat Mülkiyeti Hukuku, Tüketici Hukuku, Sigorta Hukuku, Aile Hukuku ve İcra ve İflas Hukuku alanlarında deneyim sahibidir."
+    },
+    "lawyer3": {
+      "name": "Av. Işınsu OFLAZ",
+      "header": "Hakkında",
+      "emailHeader": "E-posta: ",
+      "email": "isinsuoflaz@kizilderehukuk.com",
+      "description": "2021 yılında hukuk fakültesinden mezun olan Av. Işınsu OFLAZ, Hacettepe Üniversitesi’nde MBA programını tamamlamış ve aynı yıl KIZILDERE Hukuk Bürosu ekibine katılmıştır. Aile Hukuku, Kat Mülkiyeti Hukuku, İş Hukuku, Kira Hukuku, Tüketici Hukuku ve İcra ve İflas Hukuku gibi farklı hukuk dallarında hizmet vermektedir."
+    }
+  },
+  "contact": {
+    "header": "Bize Ulaşın",
+    "name": "Ad Soyad: ",
+    "message": "Mesaj: ",
+    "address": "Adres: ",
+    "submitButton": "GÖNDER",
+    "phone": "Telefon Numarası: ",
+    "phoneNumber": "+90 312 4421216",
+    "email": "E-posta: ",
+    "emailAddress": "info@kizilderehukuk.com",
+    "loadingMessage": "Gönderiliyor...",
+    "location": "Mevlana Bulvarı No:221 Yıldırım Kule Kat:12 Daire:45 Çankaya, Ankara",
+    "successMessage": "Mesajınız başarıyla gönderildi. En kısa sürede size geri dönüş yapılacaktır.",
+    "errorMessage": "Mesajınız gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+  }
+}

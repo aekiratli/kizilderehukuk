@@ -1,0 +1,115 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "operations": "Our Services",
+    "team": "Our Team",
+    "contact": "Contact",
+    "kizildere": "KIZILDERE Law"
+  },
+  "landing": {
+    "notFound": "404 | Page Not Found",
+    "header": "KIZILDERE LAW and MEDIATION OFFICE",
+    "header2": "Expert Legal Consulting and Mediation Services",
+    "button": "CONTACT US",
+    "ataturk": "\"The existence of a nation whose power of justice is not independent as a state cannot be accepted.\"",
+    "description": "We offer comprehensive legal support in areas such as labor law, commercial law, public procurement contracts, mediation, and more. Contact us for reliable solutions."
+  },
+  "about": {
+    "header": "About Us",
+    "header2": "Why KIZILDERE Law and Mediation Office?",
+    "subHeader": "Our Mediation Services",
+    "itemsHeaders": "Expert Team, Extensive Service Network, Solution-Oriented Approach, Reliability and Transparency",
+    "itemsDescription": "Our team, consisting of lawyers who are experts in their fields, has comprehensive knowledge and experience in all branches of law.\nWe collaborate with partner law firms across Turkey to provide effective local services to our clients.\nIn legal processes, we develop methods that not only defend our clients' rights but also provide time and cost advantages.\nWe maintain open communication with our clients, providing them with the necessary information and support throughout the process.",
+    "button": "CONTACT US",
+    "button2": "CONSULT US",
+    "description1": "KIZILDERE Law and Mediation Office is a firm operating with lawyers specialized in their respective fields. It collaborates with partner law offices in many cities across the country to provide services in line with its clients' interests. Additionally, the office offers mediation services to resolve disputes, whether on a voluntary basis or as a mandatory prerequisite for litigation.",
+    "description2": "Our law office aims to protect the rights of parties in voluntary mediation and court-mandated mediation processes and to achieve positive results through negotiations. Mediation is especially preferred for peaceful resolutions in matters such as labor disputes, commercial disagreements, and family law issues. Our experienced mediators provide effective communication to prevent lengthy legal processes."
+  },
+"operations": {
+    "header": "Our Areas of Practice",
+    "button": "CONTACT US",
+    "op1": {
+      "header": "Public Procurement Contracts",
+      "description": "We provide necessary support and conduct studies for legal issues arising in projects under the Public Procurement Law, from the tender process to the completion of the work:",
+      "items": "•Legal consultancy during tender preparation and application processes,\n•Resolution of legal disputes with public administrations,\n•Addressing disputes arising during the execution and delivery stages of the work.",
+      "fullDescription": ""
+    },
+    "op2": {
+      "header": "Labor Law",
+      "description": "We provide legal support and conduct studies to resolve potential legal disputes between employees and employers.",
+      "items": "•Pursuit of rights and claims for employee clients,\n•Protection of legal interests for employer clients,\n•Management of mediation and litigation processes,\n•Execution of legal actions for the collection of claims.",
+      "fullDescription": ""
+    },
+    "op3": {
+      "header": "Commercial and Corporate Law",
+      "description": "We provide legal support and conduct studies to prevent and resolve legal issues that companies may encounter in their commercial activities. In this scope:",
+      "items": "•Legal disputes with individuals or legal entities receiving or providing services,\n•Regulation of relations with public administrations,\n•Establishment, management, and resolution of disputes arising in employee-employer relationships.",
+      "fullDescription": ""
+    },
+    "op4": {
+      "header": "Energy and Mining Law",
+      "description": "We provide necessary support and conduct studies to resolve legal disputes for firms operating in the energy sector with public administrations or other stakeholders:",
+      "items": "•Drafting and reviewing contracts,\n•Regulation of royalty (mining lease) processes,\n•Follow-up of legal actions for resolving disputes.",
+      "fullDescription": ""
+    },
+    "op5": {
+      "header": "Condominium Law",
+      "description": "We provide necessary legal support and manage processes for resolving disputes arising from condominium ownership:",
+      "items": "•Resolution of issues related to condominium ownership for site and collective housing management,\n•Resolving disputes experienced by property owners under the Condominium Law,\n•Follow-up of legal processes regarding common area use and maintenance fee disputes.",
+      "fullDescription": ""
+    },
+    "op6": {
+      "header": "Lease Law",
+      "description": "We provide necessary support and conduct studies for resolving legal disputes arising from lease relationships:",
+      "items": "•Resolution of legal disputes between landlords and tenants,\n•Settlement of disputes between tenants and landlords,\n•Protection of our clients' rights through mediation and/or litigation under Supreme Court rulings.",
+      "fullDescription": ""
+    },
+    "op7": {
+      "header": "Property Law",
+      "description": "We ensure the execution of necessary legal processes for resolving disputes related to immovable properties:",
+      "items": "•Inheritance cases,\n•Disputes regarding the right of preemption arising from shared ownership,\n•Lawsuits for unjust encroachment,\n•Processes for the dissolution of joint ownership.",
+      "fullDescription": ""
+    }
+  },
+  "team": {
+    "header": "Our Team",
+    "lawyer1": {
+      "name": "Av. Arb. Adem Uğur KIZILDERE – Founder",
+      "header": "About",
+      "emailHeader": "Email: ",
+      "email": "auk@kizilderehukuk.com",
+      "description": "Adem Uğur KIZILDERE, who graduated from the Faculty of Law at Marmara University in 2000, started his professional life as an independent lawyer. He specializes in Commercial and Corporate Law, Energy and Mining Law, Contract Law, Public Procurement Contracts, Real Estate Law, Condominium Law, and Labor Law. Since 2020, he has been serving as a mediator with the registration number 11725 of the Mediation Department."
+    },
+    "lawyer2": {
+      "name": "Av. Arb. Atakan TÜRK",
+      "header": "About",
+      "emailHeader": "Email: ",
+      "email": "atakanturk@kizilderehukuk.com",
+      "description": "Atakan TÜRK, who completed his law education in 2015, has been practicing law at KIZILDERE Law Office since 2016, registered with the Ankara Bar. Since 2022, he has been working as a Certified Mediator. He has experience in Labor Law, Administrative Law, Commercial Law, Condominium Law, Consumer Law, Insurance Law, Family Law, and Enforcement and Bankruptcy Law."
+    },
+    "lawyer3": {
+      "name": "Av. Işınsu OFLAZ",
+      "header": "About",
+      "emailHeader": "Email: ",
+      "email": "isinsuoflaz@kizilderehukuk.com",
+      "description": "Işınsu OFLAZ, who graduated from the Faculty of Law in 2021, completed her MBA program at Hacettepe University and joined KIZILDERE Law Office in the same year. She provides services in various fields of law, including Family Law, Condominium Law, Labor Law, Lease Law, Consumer Law, and Enforcement and Bankruptcy Law."
+    }
+  },
+  "contact": {
+    "header": "Contact Us",
+    "name": "Full Name: ",
+    "message": "Message: ",
+    "address": "Address: ",
+    "submitButton": "SEND",
+    "phone": "Phone Number: ",
+    "phoneNumber": "+90 312 4421216",
+    "email": "Email: ",
+    "emailAddress": "info@kizilderehukuk.com",
+    "location": "Mevlana Boulevard No:221 Yıldırım Kule Floor:12 Apartment:45 Çankaya, Ankara",
+    "loadingMessage": "Sending...",
+    "successMessage": "Your message has been successfully sent. You will be contacted shortly.",
+    "errorMessage": "An error occurred while sending your message. Please try again later."
+    
+  }
+}
