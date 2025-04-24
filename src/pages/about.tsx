@@ -26,7 +26,7 @@ const AboutPage: React.FC = () => {
                 <Trans i18nKey="about.description1" components={{ strong: <strong /> }} />
 
                 </p>
-                <a href="#contact" className="mt-4 px-4 py-4 bg-gradient-to-b from-[#a6a6a6] to-[#ffffff] text-black font-bold hover:from-[#ffffff] hover:to-[#a6a6a6] transition-transform duration-300 transform hover:scale-105 self-center md:self-start">
+                <a href="/iletisim" className="mt-4 px-4 py-4 bg-gradient-to-b from-[#a6a6a6] to-[#ffffff] text-black font-bold hover:from-[#ffffff] hover:to-[#a6a6a6] transition-transform duration-300 transform hover:scale-105 self-center md:self-start">
                   {t('about.button')}
                 </a>
               </div>
@@ -46,7 +46,7 @@ const AboutPage: React.FC = () => {
                 <Trans i18nKey="about.description1" components={{ strong: <strong /> }} />
 
                 </p>
-                <a href="#contact" className="mt-4 px-4 py-4 bg-gradient-to-b from-[#a6a6a6] to-[#ffffff] text-black font-bold hover:from-[#ffffff] hover:to-[#a6a6a6] transition-transform duration-300 transform hover:scale-105 self-center md:self-start">
+                <a href="/iletisim" className="mt-4 px-4 py-4 bg-gradient-to-b from-[#a6a6a6] to-[#ffffff] text-black font-bold hover:from-[#ffffff] hover:to-[#a6a6a6] transition-transform duration-300 transform hover:scale-105 self-center md:self-start">
                   {t('about.button')}
                 </a>
               </div>
