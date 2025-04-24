@@ -58,24 +58,24 @@ const Header: React.FC = () => {
 
         {/* Desktop Navigation */}
         <nav className="hidden bg-opacity-90 md:flex space-x-6 ml-auto">
-          <button onClick={() => navigateTo('/')} className="text-gray-800 hover:text-gray-600">{t('header.home')}</button>
-          <button onClick={() => navigateTo('/hakkimizda')} className="text-gray-800 hover:text-gray-600">{t('header.about')}</button>
-          <button onClick={() => navigateTo('/faaliyet_alanlarimiz')} className="text-gray-800 hover:text-gray-600">{t('header.operations')}</button>
-          <button onClick={() => navigateTo('/ekibimiz')} className="text-gray-800 hover:text-gray-600">{t('header.team')}</button>
-          <button onClick={() => navigateTo('/iletisim')} className="text-gray-800 hover:text-gray-600">{t('header.contact')}</button>
-          <button onClick={handleLanguageChange} className="text-gray-800 hover:text-gray-600">EN/TR</button>
+          <button onClick={() => navigateTo('/')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.home')}</button>
+          <button onClick={() => navigateTo('/hakkimizda')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.about')}</button>
+          <button onClick={() => navigateTo('/faaliyet_alanlarimiz')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.operations')}</button>
+          <button onClick={() => navigateTo('/ekibimiz')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.team')}</button>
+          <button onClick={() => navigateTo('/iletisim')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.contact')}</button>
+          <button onClick={handleLanguageChange} className="cursor-pointer text-gray-800 hover:text-gray-600">EN/TR</button>
         </nav>
       </div>
 
       {/* Mobile Navigation */}
       {isMobileMenuOpen && (
         <nav className="flex flex-col items-end space-y-4 bg-white bg-opacity-50 shadow-md p-4 md:hidden transition-transform transform duration-300 ease-in-out">
-          <button onClick={() => navigateTo('/')} className="text-gray-800 hover:text-gray-600">{t('header.home')}</button>
-          <button onClick={() => navigateTo('/hakkimizda')} className="text-gray-800 hover:text-gray-600">{t('header.about')}</button>
-          <button onClick={() => navigateTo('/faaliyet_alanlarimiz')} className="text-gray-800 hover:text-gray-600">{t('header.operations')}</button>
-          <button onClick={() => navigateTo('/ekibimiz')} className="text-gray-800 hover:text-gray-600">{t('header.team')}</button>
-          <button onClick={() => navigateTo('/iletisim')} className="text-gray-800 hover:text-gray-600">{t('header.contact')}</button>
-          <button onClick={handleLanguageChange} className="text-gray-800 hover:text-gray-600">EN/TR</button>
+          <button onClick={() => navigateTo('/')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.home')}</button>
+          <button onClick={() => navigateTo('/hakkimizda')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.about')}</button>
+          <button onClick={() => navigateTo('/faaliyet_alanlarimiz')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.operations')}</button>
+          <button onClick={() => navigateTo('/ekibimiz')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.team')}</button>
+          <button onClick={() => navigateTo('/iletisim')} className="cursor-pointer text-gray-800 hover:text-gray-600">{t('header.contact')}</button>
+          <button onClick={handleLanguageChange} className="cursor-pointer text-gray-800 hover:text-gray-600">EN/TR</button>
         </nav>
       )}
     </header>

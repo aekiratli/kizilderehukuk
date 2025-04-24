@@ -2,7 +2,6 @@
 import React, { useState } from 'react';
 import lawyer1 from '../assets/lawyer1.png';
 import lawyer2 from '../assets/lawyer3.png';
-import lawyer3 from '../assets/lawyer2.png';
 import arrowUpward from '../assets/arrowUpward.png';
 import { useTranslation } from 'react-i18next';
 

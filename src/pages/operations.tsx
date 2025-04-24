@@ -8,7 +8,6 @@ import op5 from '../assets/op5.png';
 import op6 from '../assets/op6.png';
 import op7 from '../assets/op7.png';
 import opArrow from '../assets/opArrow.png';
-import lawyers from '../assets/lawyers.jpg';
 import { Trans } from "react-i18next";
 
 const OperationsPage: React.FC = () => {
