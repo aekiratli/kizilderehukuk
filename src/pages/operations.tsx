@@ -38,7 +38,7 @@ const OperationsPage: React.FC = () => {
                     </h1>
                     <div className="h-0.5 bg-gradient-to-r from-[#a6a6a6] to-[#ffffff] mb-8"></div>
                 </div>
-                <img src={lawyers} alt="Lawyers" width={1366} height={768} className="py-8 w-full h-auto" />
+                {/* <img src={lawyers} alt="Lawyers" width={1366} height={768} className="py-8 w-full h-auto" /> */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {operations.map((op, index) => (
                         <div key={index} className="grid grid-cols-8 gap-4 p-4">

@@ -81,35 +81,6 @@ const TeamPage: React.FC = () => {
                             </a>
                         </p>
                     </div>
-
-                    <div className="p-4 flex flex-col">
-                        <div className="flex justify-center mb-4">
-                            <img src={lawyer3} alt={t('team.lawyer3.name')} width={300} height={300} />
-                        </div>
-                        <h2 className="text-2xl font-bold">{t('team.lawyer3.name')}</h2>
-                        <p className="my-8 text-xl flex items-end h-12">
-                            {t('team.lawyer3.header')}
-                            <span className="ml-2 cursor-pointer" onClick={() => toggleExpand(2)}>
-                                <img
-                                    src={arrowUpward}
-                                    alt="Toggle Description"
-                                    width={24}
-                                    height={24}
-                                    className={`transform transition-transform duration-200 ${expanded[2] ? 'rotate-0' : 'rotate-180'}`}
-                                />
-                            </span>
-                        </p>
-                        <div className={`flex-grow transition-max-height duration-100 ease-in-out overflow-hidden ${expanded[2] ? 'max-h-screen' : 'max-h-0'}`}>
-                            <p className="mt-2">{t('team.lawyer3.description')}</p>
-                        </div>
-                        <div className="w-full h-0.5 bg-gradient-to-r from-[#a6a6a6] to-[#ffffff] mb-2"></div>
-                        <p className="mt-2 text-sm">
-                            <strong>{t('team.lawyer3.emailHeader')}</strong>
-                            <a href={`mailto:${t('team.lawyer3.email')}`} className="no-underline text-white ml-1">
-                                {t('team.lawyer3.email')}
-                            </a>
-                        </p>
-                    </div>
                 </div>
             </div>
         </section>
